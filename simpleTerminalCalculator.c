@@ -5,7 +5,7 @@ int main(){
   double n1,n2;
   printf("Enter the first number: ");
   scanf("%lf", &n1);
-  printf("Select an operation (+,-,*,/,c(for continuous mod)): ");
+  printf("Select an operation (+,-,*,/): ");
   scanf(" %c", &op);
   printf("Enter the second number: ");
   scanf("%lf", &n2);
